@@ -1,9 +1,3 @@
-https://github.com/wookuen/loan_calculator_1.githttps://github.com/wookuen/loan_calculator_1.gitloan_principal = 'Loan principal: 1000'
-final_output = 'The loan has been repaid!'
-first_month = 'Month 1: repaid 250'
-second_month = 'Month 2: repaid 250'
-third_month = 'Month 3: repaid 500'
-
 # write your code here
 print("Enter the loan principal:")
 loan_principal = int(input())
