@@ -1,3 +1,4 @@
+# This is what I wrote by myself
 # write your code here
 print("Enter the loan principal:")
 loan_principal = int(input())
